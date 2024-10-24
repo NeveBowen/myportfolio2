@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nevebowen.github.io/myportfolio2/sitemap.xml
